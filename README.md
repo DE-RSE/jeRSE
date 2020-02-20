@@ -1,6 +1,6 @@
-# JeRSE - Jena RSE
+# jeRSE - Jena RSE
 
-Welcome to the website (prototype) for the **Je**na **RSE** regional chapter, the - you guessed it - regional chapter of [de-RSE](https://de-rse.org) in and around Jena.
+Welcome to the website (prototype) for the **je**na **RSE** regional chapter, the - you guessed it - regional chapter of [de-RSE](https://de-rse.org) in and around Jena.
 
 jeRSE is an open group of people from the area who care about research software.
 
