@@ -16,7 +16,7 @@ Our next face-to-face meeting will take place
 
 #### Topic
 
-- * Data Management for theses (both Masters and PhD)
+- *Data Management for theses* (both Masters and PhD)
 
 ##### Speakers
 
